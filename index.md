@@ -1,10 +1,14 @@
 # Sruti Mani's User Page
 
-[Go to About Me](about-me)
-[Go to My Programming Experience](my-programming-experience)
-[Go to My Favorite Programming Language](my-favorite-programming-language)
-[Go to Future Goals](future-goals)
-[Contribution guidelines for this project](thanks.md)
+[Go to About Me](#about-me)
+
+[Go to My Programming Experience](#my-programming-experience)
+
+[Go to My Favorite Programming Language](#my-favorite-programming-language)
+
+[Go to Future Goals](#future-goals)
+
+[Go to Thank You](thanks.md)
 
 ## About Me
 Hello! My name is **Sruti Mani** and I am currently a third-year **Mathematics: Computer Science** major at **UC San Diego**. I am also pursuing a minor in **Business**. I am passionate about developing user-centric software and project management. In my free time, I enjoy dancing and hanging out with my friends!
@@ -23,19 +27,19 @@ My favorite programming language is **Java** because this was my first programmi
 - C++
 - Swift
 
-'''
+```java
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
 }
-'''
+```
 
 ## Future Goals
 Here are some of my quarter goals:
 
-- [x] Take CSE 110
-- [ ] Learn front-end programming
+- [x] Take CSE 110  
+- [ ] Learn front-end programming  
 - [ ] Get all A's
 
 Here are some of my career goals for the upcoming year:
